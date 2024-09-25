@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //System.out.println("Hello world!");
+        System.out.println("Hello world!");
 
         String moviename = "Secondhand Lions";
         int releaseyear = 2003;
@@ -8,13 +8,13 @@ public class Main {
         double rating = 6.7;
         boolean series = false;
         char directorsfirstinitial = 'M';
-        //System.out.println("My favorite movie is " + moviename + ".");
-        //System.out.println("Movie Name: " + moviename);
-       // System.out.println("Year Released: " + releaseyear);
-       // System.out.println("Genre: " + genre);
-       // System.out.println("IMDd Rating: " + rating);
-       // System.out.println("Part of a Series: " + series);
-        //System.out.println("Director's Last Name Initial: " + directorsfirstinitial);
+        System.out.println("My favorite movie is " + moviename + ".");
+        System.out.println("Movie Name: " + moviename);
+        System.out.println("Year Released: " + releaseyear);
+        System.out.println("Genre: " + genre);
+        System.out.println("IMDd Rating: " + rating);
+        System.out.println("Part of a Series: " + series);
+        System.out.println("Director's Last Name Initial: " + directorsfirstinitial);
 // an array is a list to store multiple values
         //same data so only strings no numbers
         String[] movieNames = {"Seven Pounds", "Interstellar", "Inception"};
